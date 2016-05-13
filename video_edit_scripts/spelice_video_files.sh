@@ -1,6 +1,6 @@
 #! /bin/bash 
 
-# Copy (c) 2016/05/11 , Genvision
+# 2016/05/11 , GNU V3.0
 # FileName    : spelice_video_files.sh
 # Description : Multiple video files together into a video file 
 # Author      : peter zhang

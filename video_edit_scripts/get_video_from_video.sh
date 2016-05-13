@@ -1,6 +1,6 @@
 #! /bin/bash 
 
-# Copy (c) 2016/05/04 , Genvision
+# 2016/05/04, GNU V3.0
 # FileName    : get_video_from_video.sh
 # Description : Gets a specified length of video A (target) from the specified
 #               position of the video B (source) .

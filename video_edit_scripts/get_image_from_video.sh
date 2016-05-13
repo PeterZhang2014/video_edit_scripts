@@ -1,6 +1,6 @@
 #! /bin/bash 
 
-# Copy (c) 2016/05/04 , Genvision
+# 2016/05/04 , GNU V3.0
 # FileName    : get_image_from_video.sh
 # Description : Get a picture in JPG format at the beginning of the video in MP4
 #               format and the default size of the picture is 256x144
