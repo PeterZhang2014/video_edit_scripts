@@ -1,6 +1,6 @@
 #! /bin/bash 
 
-# 2016/05/04, GNU V3.0
+# 2016/05/04, GPL V3.0
 # FileName    : get_video_from_video.sh
 # Description : Gets a specified length of video A (target) from the specified
 #               position of the video B (source) .
